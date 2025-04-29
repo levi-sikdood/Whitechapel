@@ -1,0 +1,44 @@
+{
+    "sections": {
+        "hero_image": {
+            "type": "hero_image"
+        },
+        "hero_video": {
+            "type": "hero_video"
+        },
+        "image_banner": {
+            "type": "image_banner"
+        },
+        "category": {
+            "type": "category"
+        },
+        "tour_dates": {
+            "type": "tour_dates"
+        },
+        "streaming_services": {
+            "type": "streaming_services"
+        },
+        "featured_video": {
+            "type": "featured_video"
+        },
+        "pre_order": {
+            "type": "pre_order"
+        },
+        "button": {
+            "type": "button"
+        }
+    },
+    "layout": "theme",
+    "wrapper": "main.home-main-wrapper",
+    "order": [
+        "hero_image",
+        "hero_video",
+        "image_banner",
+        "category",
+        "tour_dates",
+        "streaming_services",
+        "featured_video",
+        "pre_order",
+        "button"
+    ]
+}
